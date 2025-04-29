@@ -1,4 +1,4 @@
-package java8features.lambdaninterface;
+package java8features.lambdainterface;
 
 public class LambdaExample {
     public static void main(String[] args) {

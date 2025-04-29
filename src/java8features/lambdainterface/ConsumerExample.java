@@ -1,4 +1,4 @@
-package java8features.lambdaninterface;
+package java8features.lambdainterface;
 
 import java.util.function.Consumer;
 
